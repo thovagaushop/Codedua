@@ -23,43 +23,53 @@ export default {
       khoa: [
         {
           id: 1,
-          ten: 'Công nghệ thông tin'
+          ten: 'Công nghệ thông tin',
+          lichBV: '26/8/2022'
         },
         {
           id: 2,
-          ten: 'Điện tử viễn thông'
+          ten: 'Điện tử viễn thông',
+          lichBV: '12/9/2022'
         },
         {
           id: 3,
-          ten: 'An ninh mạng'
+          ten: 'An ninh mạng',
+          lichBV: '31/1/2023'
         },
         {
           id: 4,
-          ten: 'Cơ điện tử'
+          ten: 'Cơ điện tử',
+          lichBV: '12/5/2022'
         },
         {
           id: 5,
-          ten: 'Khoa học máy tính'
+          ten: 'Khoa học máy tính',
+          lichBV: '22/10/2022'
         },
         {
           id: 6,
-          ten: 'Cơ khí'
+          ten: 'Cơ khí',
+          lichBV: '1/12/2022'
         },
         {
           id: 7,
-          ten: 'Tự động hóa'
+          ten: 'Tự động hóa',
+          lichBV: '3/8/2022'
         },
         {
           id: 8,
-          ten: 'Truyền thông và quản trị'
+          ten: 'Truyền thông và quản trị',
+          lichBV: '29/6/2022'
         },
         {
           id: 9,
-          ten: 'Thiết kế'
+          ten: 'Thiết kế',
+          lichBV: '26/8/2022'
         },
         {
           id: 10,
-          ten: 'Kiến trúc'
+          ten: 'Kiến trúc',
+          lichBV: '26/8/2022'
         },
       ],
       sinhVien: [
